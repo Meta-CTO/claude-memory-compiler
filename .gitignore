@@ -29,3 +29,8 @@ scripts/uv.lock
 Thumbs.db
 
 .obsidian/
+
+# environment variables (post-PolinRider hardening)
+.env
+.env.*
+!.env.example
